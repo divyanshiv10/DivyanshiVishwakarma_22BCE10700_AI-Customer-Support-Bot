@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 AI Customer Support Bot
 
 An AI-powered customer support chatbot built with **React (Vite)** and **Supabase**, capable of handling FAQs, maintaining contextual memory, and simulating escalation when unable to answer.  
@@ -133,3 +134,6 @@ If you find it useful, ⭐ star the repo and share your feedback — every sugge
 ---
 
 ### 👩‍💻 Built by **Riddhika Tripathi**
+=======
+# DivyanshiVishwakarma_22BCE10700_AI-Customer-Support-Bot
+>>>>>>> 704aadab677b6bf6c00ace02cc1cf6bc7aee26bd
